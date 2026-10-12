@@ -34,9 +34,9 @@
 </p>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=icecherryeclipse&theme=github-dark&style=aura" alt="icecherryeclipse heatmap visual" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=theoneeyedking&theme=github-dark&style=aura" alt="theoneeyedking heatmap visual" />
 </p>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/social?username=icecherryeclipse&theme=github-dark&style=aura" alt="icecherryeclipse social visual" />
+<img src="https://www.gitskins.com/api/section/social?username=theoneeyedking&theme=github-dark&style=aura" alt="theoneeyedking social visual" />
 </p>
