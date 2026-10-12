@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.gitskins.com/api/section/hero?username=icecherryeclipse&theme=github-dark&style=aura" alt="icecherryeclipse hero visual" />
+<img src="https://www.gitskins.com/api/section/hero?username=theoneeyedking&theme=github-dark&style=aura" alt="theoneeyedking hero visual" />
 </p>
 
 <!-- Tech Stack & Tools -->
