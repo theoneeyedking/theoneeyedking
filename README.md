@@ -22,7 +22,7 @@
 
 <!-- GIF File -->
 <p align="center">
-  <img src="./banner.gif" width="600" alt="Banner GIF" />
+  <img src="./arima-kishou.gif" width="600" alt="Banner GIF" />
 </p>
 
 <p align="center">
