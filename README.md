@@ -26,11 +26,11 @@
 </p>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/projects?username=icecherryeclipse&theme=github-dark&style=aura" alt="icecherryeclipse projects visual" />
+<img src="https://www.gitskins.com/api/section/projects?username=theoneeyedking&theme=github-dark&style=aura" alt="theoneeyedking projects visual" />
 </p>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/stats?username=icecherryeclipse&theme=github-dark&style=aura" alt="icecherryeclipse stats visual" />
+<img src="https://www.gitskins.com/api/section/stats?username=theoneeyedking&theme=github-dark&style=aura" alt="theoneeyedking stats visual" />
 </p>
 
 <p align="center">
